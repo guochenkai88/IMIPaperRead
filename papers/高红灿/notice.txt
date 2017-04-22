@@ -1,0 +1,3 @@
+DeepLearning那篇文章很长 ，作为一个长期的了解，不要求短时间看完。可以借此再搜集别的相关资料加深对deeplearning的理解。
+
+其他两篇是关于access control的，需要重视。
